@@ -25,10 +25,10 @@ There are 15 classes (14 diseases, and one for "No findings"). Images can be cla
 Focus on a state of the art deep learning model and compare two resampling strategies to deal with the problem of unbalanced multi-label data to predict multiple labels on images of chest x-rays from the NIH Chest X-ray dataset. A Resampling Algorithm is proposed to deal with the problem of unbalanced dataset. The algorithm is divided into two stages, i.e., Binary classification and Resampling techniques.
 
 # Conclusions
-From Resampling we can see that the evaluation parameters such as F1-score Precision and Accuracy have shown significant increase in many labels especially in Oversampling case.
+From Resampling we can see that the evaluation parameters such as F1-score Precision and Accuracy have shown significant increase in many labels especially in Oversampling case as attached in **Classification_Report.pdf file**. 
 
 # Outline of code:
 
-- Binary_Resampling.ipynb
+- Binary_Classification code.ipynb
 - Random_Oversampling.ipynb
 - Random_Undersampling.ipynb
